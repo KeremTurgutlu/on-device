@@ -4,6 +4,7 @@
 *.mlmodel
 *.npy
 *.pth
+*.tflite
 *onnx-tensorflow
 *ckpt*
 
