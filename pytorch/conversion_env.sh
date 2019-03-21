@@ -28,3 +28,25 @@ pip install -e .
 
 # needed for caffe2
 pip install future
+
+
+###########
+### KERAS ###
+###########
+
+# for keras to onnx
+pip install onnxmltools
+
+# tf 2 coreml
+pip install -U tfcoreml
+
+
+
+
+
+
+
+
+
+
+
